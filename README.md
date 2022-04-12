@@ -1,2 +1,4 @@
 # UTS-Pweb-Framework
-Najmi 
+Nama  : Najmi Cahaya Nugraha
+NIM   : 20416255201136
+Kelas : IF20B
